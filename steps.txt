@@ -1,0 +1,29 @@
+Setup of all the dependencies
+Design scalable folder structure
+Create home route and Setup
+Connect project with database
+Create auth api
+Create person schema
+Create new object from mongodb model
+Generate salt and hash
+set up login route
+validation of password in login route
+create strategy using passport
+create tokens with information
+
+create model for user profile 
+create route for profile
+collecting user profile values
+update the values and save them
+
+unique username and url based access 
+getting all users from database
+deleting a user from database
+workrole = pushing array in database
+writing and testing the delete route in array
+
+create question model
+create post question routes
+create route to get all the database
+posting answers to the questions
+adding upvotes to the question 
